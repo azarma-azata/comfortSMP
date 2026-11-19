@@ -1,0 +1,10 @@
+pocketbase/
+pb_data/
+
+.env
+.env.*
+!.env.example
+
+*.log
+
+.vscode/
